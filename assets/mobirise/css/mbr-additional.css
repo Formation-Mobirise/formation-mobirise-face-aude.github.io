@@ -1719,6 +1719,11 @@ body {
 .cid-qxyHbXEFfR H1 {
   color: #f9f295;
 }
+.cid-qxyHbXEFfR .mbr-text,
+.cid-qxyHbXEFfR .mbr-section-btn {
+  color: #f9f295;
+  text-align: center;
+}
 .cid-qxzbGEH7Qx {
   padding-top: 0px;
   padding-bottom: 0px;
